@@ -32,3 +32,7 @@ Testing & Quality Assurance: Developing a comprehensive Test Plan to ensure the 
 Design Rationale: Documenting the thought process behind design decisions, including strengths, weaknesses, and alternative ideas considered.
 
 Teamwork Analysis: Reflecting on the group's strengths, weaknesses, and lessons learned from the project.
+Assignment 2: Telemedicine System Analysis, Design, and Testing
+PSE Assignment 2_ Final Report (G4).pdf
+Lessons Learned & Conclusion
+Through this two-part project, our team gained practical experience in applying a structured, disciplined approach to software development. We learned the critical importance of thorough requirements gathering and how different modeling tools, like UML diagrams, can effectively communicate complex system designs. This project reinforced the value of a strong foundation in design and planning before writing a single line of code, especially within a sensitive domain like telemedicine.
