@@ -36,3 +36,6 @@ Assignment 2: Telemedicine System Analysis, Design, and Testing
 PSE Assignment 2_ Final Report (G4).pdf
 Lessons Learned & Conclusion
 Through this two-part project, our team gained practical experience in applying a structured, disciplined approach to software development. We learned the critical importance of thorough requirements gathering and how different modeling tools, like UML diagrams, can effectively communicate complex system designs. This project reinforced the value of a strong foundation in design and planning before writing a single line of code, especially within a sensitive domain like telemedicine.
+
+### UI Presentation
+Watch the UI flow video here: [UI Presentation](./assets/your_video.mp4)
